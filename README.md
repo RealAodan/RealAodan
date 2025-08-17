@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Aodan
 
-<!--
-**RealAodan/RealAodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring student and hobbyist** focused on learning and building small engineering, coding and/or rendering projects.
+📍 Montreal | ✉️ aodanbowie@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills (learning & using)
+Languages: Python  
+
+Tools: Fusion 360 • Git & GitHub • VS Code • Unity Engine • Cinema4D 
+
+Interests: CAD designing • Server Hosting • Game Design • Electronics
+
