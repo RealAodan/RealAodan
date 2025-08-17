@@ -1,6 +1,7 @@
 ## Hi, I'm Aodan
 
 **Aspiring student and hobbyist** focused on learning and building small engineering, coding and/or rendering projects.
+
 📍 Montreal | ✉️ aodanbowie@gmail.com
 
 
