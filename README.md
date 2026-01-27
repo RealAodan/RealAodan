@@ -2,7 +2,7 @@
 
 **Student and hobbyist** focused on learning and building small engineering, coding and/or rendering projects.
 
-📍 Montreal | ✉️ aodanbowie@gmail.com
+📍 Montreal | ✉️ aodanbowie@gmail.com 🎮 https://aodan.itch.io
 
 
 ## 🔧 Skills (learning & using)
