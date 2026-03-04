@@ -6,7 +6,7 @@
 
 
 ## 🔧 Skills (learning & using)
-Languages: Python  
+Languages: Python • C++
 
 Tools: Fusion 360 • Git & GitHub • VS Code • Unity Engine • Cinema4D 
 
